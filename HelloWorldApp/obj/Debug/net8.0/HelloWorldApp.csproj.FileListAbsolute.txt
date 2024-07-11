@@ -1,0 +1,14 @@
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/home/tim/Dev/Myprojects/Gen/.NET/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
